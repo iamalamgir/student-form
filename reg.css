@@ -1,0 +1,73 @@
+body{
+    background-image: url("reg.png"); 
+ }
+
+ .mainsection{
+    height: 800px;
+    width: 500px;
+    border: 2px solid #ffffff;
+    margin: 0 auto;
+ }
+
+ .header{
+    padding: 10px;
+    border: 1px solid #ffffff;
+    color: #000;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box{
+    height: 500px;
+    width: 400px;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+
+.img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+#form1{
+    border: 2px solid #000;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+
+#fv{
+    height: 25px;
+    width: 200px;
+    margin: 5px 0px 0px 0px;
+    
+}
+
+td{
+    font-size: 20px;
+    margin: 0px 0px 0px 0px;
+    height: 25px;
+    width: 200px;
+}
+
+#gen{
+    height: 18px;
+    width: 18px;
+}
+
+#button{
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    padding: 2px;
+    height: 30px;
+    width: 90px;
+    font-size: 20px;
+    color: #000;
+    background: #D8E6D4;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    cursor: pointer;
+}
